@@ -1,3 +1,5 @@
+These are sample bullet points you can use while making the bullet point flashcards
+
 Protects passwords from exposure: Hashing makes stored passwords unreadable.
 Follows security standards: It aligns with best practices for handling sensitive data.
 Prevents plain text leaks: Reduces the risk of compromised passwords.
