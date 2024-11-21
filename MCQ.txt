@@ -1,3 +1,5 @@
+These are sample MCQ questions you can use while making the MCQ flashcards
+
 What is the capital of India?
 a. Mumbai
 b. Delhi
@@ -7,4 +9,3 @@ Who is the author of Merchant of Venice?
 a. William Shakespeare
 b. Oscar Wilde
 c. Leonardo Da Vinci
-
