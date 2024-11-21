@@ -1,4 +1,4 @@
-These are sample Q&A questions you can use while making the MCQ flashcards
+These are sample Q&A questions you can use while making the Q&A flashcards
 
 What is the full form of HTML?
 Hypertext Markup Language
