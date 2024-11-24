@@ -11,11 +11,11 @@ This project is in a reactjs framework.
 1. Create a react app using the command: npx create-react-app flashx3 [OR] create-react-app flashx3
    The react app shall be downloaded.
    
-2. Open the terminal with the path set to the flashx3 react app and type the following commands:
+3. Open the terminal with the path set to the flashx3 react app and type the following commands:
    - npm install express mongoose cors *required for server.js that shall be in the root of the project folder*
    - npm install jspdf *to enable pdf download*
-   - 
-3. In the react app, add the files of src and public folder of this github repository into the respective src and public folder in the flashx3 react app.
+     
+4. In the react app, add the files of src and public folder of this github repository into the respective src and public folder in the flashx3 react app.
 
 **Run the project**
 To run this project, type the following commands:
