@@ -1,4 +1,5 @@
 This project is in a reactjs framework. 
+
   src folder - Primary files are App.js and App.css. In the src folder, there is a components folder that consists of js and css files, this facilitates linking of different files/pages together. React Router DOM is used for linking. The required formatting files (like background, logo etc.,) are also present.
   
   public folder - Primary files are the HTML files and other formatting files (like background, logo etc.,) are present.
