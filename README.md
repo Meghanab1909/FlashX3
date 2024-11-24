@@ -8,7 +8,7 @@ This project is in a reactjs framework.
 
 **Installing the project:**
 (Assuming Nodejs and MongoDB are installed)
-1. Create a react app using the command: npx create-react-app flashx3 [OR] create-react-app flashx3
+1. Create a react app using the command: npx create-react-app flashx3 [OR] create-react-app flashx3.
    The react app shall be downloaded.
    
 3. Open the terminal with the path set to the flashx3 react app and type the following commands:
