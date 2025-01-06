@@ -30,4 +30,4 @@ To run this project, type the following commands:
    - npm start
      *This establishes the frontend connection*
 
-*Note: To get a better understanding of the project, kindly watch the screen recording of the project uploaded in the repository. If the video is not being displayed/loaded on github please download it*
+*Note: To get a better understanding of the project, kindly watch the screen recording of the project (project.mp4) uploaded in the repository. If the video is not being displayed/loaded on github please download it*
