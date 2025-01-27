@@ -1,3 +1,5 @@
+## Project Overview
+
 This project is in a reactjs framework. 
 
   src folder - Primary files are App.js and App.css. In the src folder, there is a components folder that consists of js and css files, this facilitates linking of different files/pages together. React Router DOM is used for linking. The required formatting files (like background, logo etc.,) are also present.
@@ -31,3 +33,10 @@ To run this project, type the following commands:
      *This establishes the frontend connection*
 
 *Note: To get a better understanding of the project, kindly watch the screen recording of the project (project.mp4) uploaded in the repository. If the video is not being displayed/loaded on github please download it*
+
+## Project Contributors _(In Alphabetical Order)_
+1. Meghana Saisri Bisa - github username: Meghanab1909
+
+2. Mitha M K
+
+3. Mrunal Manjunath Kudtarkar - github username: mrukudcode
