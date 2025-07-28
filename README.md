@@ -37,6 +37,6 @@ To run this project, type the following commands:
 ## Project Contributors _(In Alphabetical Order)_
 1. Meghana Saisri Bisa - github username: Meghanab1909
 
-2. Mitha M K
+2. Mitha M K - github username: mithamk
 
 3. Mrunal Manjunath Kudtarkar - github username: mrukudcode
