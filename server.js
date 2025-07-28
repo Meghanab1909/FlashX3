@@ -4,6 +4,9 @@
         - Meghana Saisri Bisa
         - Mitha M K
         - Mrunal Manjunath Kudtarkar
+    Disclaimer: This project is the original work of the contributors listed above. 
+    Any unauthorized use, misrepresentation, or submission of this project as someone else’s work constitutes a violation
+    of ethical and academic standards. Proper credit must be given when referencing or utilizing any part of this project.
 */
 const express = require('express');
 const mongoose = require('mongoose');
@@ -73,3 +76,12 @@ app.post('/login',async(req,res) => {
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`);
 });
+
+/*
+    © 2025 Meghana Saisri Bisa, Mitha M K, Mrunal Manjunath Kudtarkar.
+    All rights reserved.
+
+    This project, FLASHX3, was developed primarily by the contributors listed above, with partial assistance from external resources. Unauthorized copying, redistribution, or misrepresentation of this work is prohibited. 
+
+    For use, reference, or distribution, proper attribution is required.
+*/
