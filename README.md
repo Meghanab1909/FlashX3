@@ -32,7 +32,8 @@ To run this project, type the following commands:
    - npm start
      *This establishes the frontend connection*
 
-*Note: To get a better understanding of the project, kindly watch the screen recording of the project (project.mp4) uploaded in the repository. If the video is not being displayed/loaded on github please download it*
+▶️ **[Watch the FlashX3 Demo]**(https://github.com/Meghanab1909/FlashX3/blob/main/project.mp4)<br>
+*Note: To get a better understanding of the project, kindly watch the screen recording of the project. If the video is not being displayed/loaded on github please download it*
 
 ## Project Contributors _(In Alphabetical Order)_
 1. Meghana Saisri Bisa - github username: Meghanab1909
